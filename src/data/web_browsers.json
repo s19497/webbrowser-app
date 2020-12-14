@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mozilla Firefox",
+    "description": "Mozilla Firefox is a fox and it's on fire",
+    "imgSrc": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-lg-high-res.fbc7ffbb50fd.png"
+  },
+  {
+    "name": "Google Chrome",
+    "description": "Google Chrome is cool",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg"
+  },
+  {
+    "name": "Microsoft Edge",
+    "description": "It's almost chrome, so it's cool now",
+    "imgSrc": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4nqTh"
+  }
+]
